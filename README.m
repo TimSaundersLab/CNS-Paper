@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.7547719.svg)](https://doi.org/10.5281/zenodo.7547719)
+
 %% README
 
 % Codes related to Karkali et al Developmental Cell 2022
